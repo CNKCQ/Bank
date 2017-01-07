@@ -1,0 +1,95 @@
+ [
+  {
+  "class": "NewsListViewController",
+  "title": "要闻",
+  "type": 0,
+  "selected": true
+  },
+  {
+  "class": "StockNewsListViewController",
+  "title": "自选",
+  "type": 0,
+  "selected": true
+  },
+  {
+  "class": "NewsListViewController",
+  "title": "外汇",
+  "type": 10,
+  "selected": true
+  },
+  {
+  "class": "NewsListViewController",
+  "title": "期货",
+  "type": 11,
+  "selected": true
+  },
+  {
+  "class": "NewsListViewController",
+  "title": "黄金",
+  "type": 12,
+  "selected": true
+  },
+  {
+  "class": "NewsListViewController",
+  "title": "财经要闻",
+  "type": 13,
+  "selected": true
+  },
+  {
+  "class": "NewsListViewController",
+  "title": "行业新闻",
+  "type": 14,
+  "selected": true
+  },
+  {
+  "class": "NewsListViewController",
+  "title": "股票市场",
+  "type": 15
+  },
+  {
+  "class": "NewsListViewController",
+  "title": "基金市场",
+  "type": 16
+  },
+  {
+  "class": "NewsListViewController",
+  "title": "债券市场",
+  "type": 17
+  },
+  {
+  "class": "NewsListViewController",
+  "title": "权证市场",
+  "type": 18
+  },
+  {
+  "class": "NewsListViewController",
+  "title": "证券知识",
+  "type": 19
+  },
+  {
+  "class": "NewsListViewController",
+  "title": "金融产品市场",
+  "type": 23
+  },
+  {
+  "class": "NewsListViewController",
+  "title": "个股期权",
+  "type": 24
+  },
+  {
+  "class": "NewsListViewController",
+  "title": "期权",
+  "type": 26
+  },
+  {
+  "class": "NewsListViewController",
+  "title": "港澳视点",
+  "type": 37
+  },
+  {
+  "class": "NewsListViewController",
+  "title": "金股挖掘",
+  "type": 38
+  }
+  ]
+
